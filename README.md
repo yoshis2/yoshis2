@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://www.threenext.com/"><img src="https://img.shields.io/badge/Company-Three%20Next%20Co.,%20Ltd.-blue?style=for-the-badge&logo=building" alt="Company"></a>
-  <a href="https://x.com/yoshis2"><img src="https://img.shields.io/badge/X-@yoshis2-black?style=for-the-badge&logo=x" alt="X"></a>
-  <a href="https://lit.link/yoshis2"><img src="https://img.shields.io/badge/Lit.link-yoshis2-2b3a4a?style=for-the-badge&logo=link" alt="Lit.link"></a>
+  <a href="https://x.com/yoshitsuguseki"><img src="https://img.shields.io/badge/X-@yoshitsuguseki-black?style=for-the-badge&logo=x" alt="X"></a>
+  <a href="https://lit.link/threenext"><img src="https://img.shields.io/badge/Lit.link-threenext-2b3a4a?style=for-the-badge&logo=link" alt="Lit.link"></a>
 </p>
 
 ---
